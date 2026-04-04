@@ -1,6 +1,6 @@
 # Proyecto_DS_II_Acosta
 
-# Proyecto - Data Science II (Coderhouse)
+# Coderhouse
 
 ## Análisis de Ventas en Ferreterías
 
