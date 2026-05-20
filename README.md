@@ -99,18 +99,18 @@ Se entrenaron distintos modelos predictivos para clasificación:
 ---
 
 # Variable objetivo
-
 Se construyó la variable:
 
-```python
+python
 ticket_alto
 donde:
 
 1 = venta superior al percentil 75
+
 0 = resto de las ventas
 
 Esto permitió transformar el problema en una tarea de clasificación binaria.
-
+---
 
 Principales insights
 El 25% de las ventas concentra los tickets más altos.
@@ -125,16 +125,35 @@ El modelo desarrollado logró identificar patrones relevantes asociados a ticket
 Esto demuestra el potencial del análisis predictivo como herramienta de apoyo para decisiones comerciales.
 
 Estructura del repositorio
+
+
+
 ├── data/
+
 ├── notebooks/
+
 ├── images/
+
 ├── presentation/
+
 ├── README.md
-Autora
-Maria Eugenia Acosta
+
+
+
+
+
+
+
+
+
+# Autora
+
+# Maria Eugenia Acosta
 
 Proyecto desarrollado para la Diplomatura de Data Science & Machine Learning en Coderhouse.
 
 Contacto
 
 GitHub: Eugeacosta
+
+
